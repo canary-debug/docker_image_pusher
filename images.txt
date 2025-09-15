@@ -1,4 +1,1 @@
-golang:1.24-alpine
-alpine:3.17
-python:3.10.18-bookworm
-python:3.10.18-bookworm
+minio/minio:latest
