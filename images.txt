@@ -1,1 +1,1 @@
-minio/minio:latest
+prom/alertmanager:latest
