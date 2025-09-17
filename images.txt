@@ -1,1 +1,1 @@
-prom/alertmanager:v0.25.0
+python3.9
