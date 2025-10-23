@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/google_containers/metrics-server:v0.7.12
+mysql:8.1.0
