@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/acs/consul:1.18.0
+hashicorp/consul:1.15.4
