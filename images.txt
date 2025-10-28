@@ -1,1 +1,1 @@
-kibana:9.2.0
+registry.cn-hangzhou.aliyuncs.com/acs/consul:1.18.0
