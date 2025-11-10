@@ -1,1 +1,1 @@
-hashicorp/consul:1.15.4
+golang:1.24.0-alpine
