@@ -1,1 +1,1 @@
-golang:1.24.0-alpine
+prom/prometheus:latest
