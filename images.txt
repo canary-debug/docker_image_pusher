@@ -1,1 +1,1 @@
-victoriametrics/victoria-metrics:stable
+jimmidyson/configmap-reload:v0.1
