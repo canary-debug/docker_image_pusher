@@ -1,1 +1,1 @@
-victoriametrics/vmselect:v1.82.0-cluster
+victoriametrics/vminsert:v1.82.0-cluster
