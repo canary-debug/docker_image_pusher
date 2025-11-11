@@ -1,1 +1,1 @@
-victoriametrics/vmagent:v1.82.0-cluster
+victoriametrics/vmagent:latest
