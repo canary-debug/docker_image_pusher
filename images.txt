@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+victoriametrics/vmalert:v1.82.0-cluster
