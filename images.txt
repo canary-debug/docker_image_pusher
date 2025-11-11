@@ -1,1 +1,1 @@
-victoriametrics/vmagent:latest
+prom/alertmanager:latest
