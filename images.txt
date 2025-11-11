@@ -1,1 +1,1 @@
-jimmidyson/configmap-reload:v0.1
+victoriametrics/vmselect:v1.82.0-cluster
