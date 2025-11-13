@@ -1,1 +1,1 @@
-cucker/get_command_4_run_container:latest
+percona/percona-xtrabackup:8.4
