@@ -1,1 +1,1 @@
-percona/percona-xtrabackup:8.1
+mongo:4.0
