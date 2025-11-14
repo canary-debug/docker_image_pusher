@@ -1,1 +1,1 @@
-golang:buster
+php:7.4-apache
