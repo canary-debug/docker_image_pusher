@@ -1,1 +1,1 @@
-php:7.4-apache
+cnych/go-grpc-greeter-server:v0.1
