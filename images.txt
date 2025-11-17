@@ -1,1 +1,2 @@
-cnych/go-grpc-greeter-server:v0.1
+flannel-cni-plugin:v1.1.2
+flannel:v0.21.5
