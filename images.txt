@@ -1,1 +1,1 @@
-envoyproxy/envoy:v1.29.0
+kindest/node:v1.29.2
