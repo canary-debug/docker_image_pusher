@@ -1,6 +1,1 @@
-quay.io/cephcsi/cephcsi:v3.15.0
-registry.aliyuncs.com/google_containers/csi-node-driver-registrar:v2.13.0
-registry.aliyuncs.com/google_containers/csi-provisioner:v3.8.0
-registry.aliyuncs.com/google_containers/csi-attacher:v4.6.0
-registry.aliyuncs.com/google_containers/csi-resizer:v1.12.0
-registry.aliyuncs.com/google_containers/csi-snapshotter:v6.2.2
+ghcr.io/siderolabs/talos:v1.11.5
