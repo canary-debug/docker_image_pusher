@@ -1,4 +1,1 @@
-jockerhub.com/flannel/flannel:v0.25.7
 k8s.cloudimages.asia/networking/kube-network-policies:v0.6.0
-jockerhub.com/flannel/flannel-cni-plugin:v1.5.1-flannel2
-jockerhub.com/flannel/flannel:v0.25.7
