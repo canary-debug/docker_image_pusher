@@ -1,1 +1,1 @@
-ghcr.io/siderolabs/talos:v1.11.5
+kindest/node:v1.34.0
