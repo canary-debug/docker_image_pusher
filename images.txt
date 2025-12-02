@@ -1,1 +1,3 @@
-k8s.cloudimages.asia/networking/kube-network-policies:v0.6.0
+docker.io/flannel/flannel:v0.23.0
+docker.io/flannel/flannel-cni-plugin:v1.2.0
+docker.io/flannel/flannel:v0.23.0
