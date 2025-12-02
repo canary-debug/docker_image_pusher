@@ -1,3 +1,7 @@
-docker.io/flannel/flannel:v0.23.0
-docker.io/flannel/flannel-cni-plugin:v1.2.0
-docker.io/flannel/flannel:v0.23.0
+ghcr.io/tektoncd/pipeline/cmd/controller:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/webhook:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/entrypoint:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/workingdirinit:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/nop:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/git-init:v0.64.0
+ghcr.io/tektoncd/pipeline/cmd/shell-image:v0.64.0
