@@ -1,7 +1,4 @@
-ghcr.io/tektoncd/pipeline/cmd/controller:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/webhook:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/entrypoint:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/workingdirinit:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/nop:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/git-init:v0.64.0
-ghcr.io/tektoncd/pipeline/cmd/shell-image:v0.64.0
+redis:latest
+nacos/nacos-server:v2.3.0-slim
+rocketmqinc/rocketmq:latest
+elasticsearch:8.0.0
