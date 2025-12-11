@@ -1,4 +1,1 @@
-redis:latest
-nacos/nacos-server:v2.3.0-slim
-rocketmqinc/rocketmq:latest
-elasticsearch:8.0.0
+openjdk:8-jre-slim
