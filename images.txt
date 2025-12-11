@@ -1,1 +1,1 @@
-openjdk:8
+cjkang/java1.8:latest
