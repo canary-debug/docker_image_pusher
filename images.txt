@@ -1,1 +1,1 @@
-openjdk:8-jre-slim
+openjdk:1.8
