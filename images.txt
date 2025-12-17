@@ -1,1 +1,1 @@
-cjkang/java1.8:latest
+ghcr.io/kaniko-project/executor:v1.23.0
