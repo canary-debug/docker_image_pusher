@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre-alpine
+golang:1.23-alpine
