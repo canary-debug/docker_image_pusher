@@ -1,1 +1,1 @@
-openjdk:8u201
+openjdk:8-jdk
