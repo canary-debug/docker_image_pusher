@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+ghcr.io/kedacore/keda:2.19.0
