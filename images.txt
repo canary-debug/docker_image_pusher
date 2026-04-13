@@ -1,1 +1,1 @@
-docker.io/calico/node:v3.29.1
+ctrox/csi-s3:v1.2.0-rc.2
