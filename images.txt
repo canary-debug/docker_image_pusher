@@ -1,1 +1,1 @@
-kestra/kestra:latest
+python:3.11-slim
