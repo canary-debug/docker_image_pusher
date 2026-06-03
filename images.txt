@@ -1,1 +1,1 @@
-kestra/kestra:latest-full
+ubuntu:22.04
