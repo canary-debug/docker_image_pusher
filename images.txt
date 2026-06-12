@@ -1,1 +1,1 @@
-registry.k8s.io/kubectl-delivery:v1.28.5
+bitnami/kubectl:latest
