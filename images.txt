@@ -1,1 +1,1 @@
-webdevops/php-fpm:5.4
+php:5.4-fpm
