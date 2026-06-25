@@ -1,1 +1,1 @@
-centos/httpd-22-centos6
+webdevops/php-fpm:5.4
