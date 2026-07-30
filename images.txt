@@ -1,1 +1,1 @@
-debian:10
+hyperf/hyperf:8.0-alpine-v3.12-swoole
