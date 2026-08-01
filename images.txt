@@ -1,1 +1,1 @@
-registry.k8s.io/metrics-server/metrics-server:v0.9.0
+docker.io/longhornio/longhorn-manager:v1.12.0
