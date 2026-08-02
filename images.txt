@@ -1,1 +1,2 @@
-docker.io/longhornio/longhorn-manager:v1.12.0
+skywalking.docker.scarf.sh/apache/skywalking-ui:9.3.0
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.3.0
