@@ -1,1 +1,1 @@
-tomcat:8.0.43-jre8
+golang:1.25-alpine
