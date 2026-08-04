@@ -1,1 +1,1 @@
-golang:1.25
+gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
