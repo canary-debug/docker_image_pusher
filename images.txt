@@ -1,1 +1,1 @@
-alpine:3.18
+golang:1.25
