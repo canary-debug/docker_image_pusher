@@ -1,1 +1,1 @@
-zookeeper:3.4.12
+docker pull maven:3.9.6-eclipse-temurin-11
