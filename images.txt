@@ -1,1 +1,1 @@
-increase-vm-max-map
+docker.elastic.co/elasticsearch/elasticsearch:7.17.13
