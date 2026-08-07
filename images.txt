@@ -1,1 +1,3 @@
-nacos/nacos-server:v1.4.3
+increase-vm-max-map:latest
+increase-fd-ulimit:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.17.13
