@@ -1,1 +1,2 @@
-mysql:8.0
+osixia/openldap:1.5.0
+osixia/phpldapadmin:0.9.0
