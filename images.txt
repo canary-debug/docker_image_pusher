@@ -1,3 +1,1 @@
-node:16-buster
-maven:3.6.3-jdk-8
-eclipse-temurin:8-jre
+kindest/node:v1.25.3
