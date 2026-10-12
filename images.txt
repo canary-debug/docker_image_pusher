@@ -1,1 +1,1 @@
-docker.m.daocloud.io/moby/buildkit:buildx-stable-1
+maven:3.8.4-openjdk-17
