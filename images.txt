@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk
+kindest/node:v1.25.3
