@@ -1,1 +1,2 @@
-kindest/node:v1.25.3
+apolloconfig/apollo-adminservice:3.0.0
+apolloconfig/apollo-configservice:3.0.0
