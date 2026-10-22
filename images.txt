@@ -1,2 +1,1 @@
-apolloconfig/apollo-adminservice:3.0.0
-apolloconfig/apollo-configservice:3.0.0
+golang:1.24
