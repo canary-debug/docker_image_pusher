@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.28.2
+docker.m.daocloud.io/apache/skywalking-oap-server:11.0.0
