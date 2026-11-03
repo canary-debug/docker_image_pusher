@@ -1,1 +1,1 @@
-maven:3.9.6-eclipse-temurin-17
+registry.k8s.io/e2e-test-images/agnhost:2.39
