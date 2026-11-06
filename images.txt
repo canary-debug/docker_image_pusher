@@ -1,1 +1,1 @@
-redis:7.0
+proxysql/proxysql:2.5.5
